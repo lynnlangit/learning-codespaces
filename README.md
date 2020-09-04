@@ -16,6 +16,7 @@ Index of content to learn to use GitHub Codespaces
 - Codespaces/Use Java container w/features (testing, debug...) - https://dev.to/lynnlangit/github-codespaces-codetour-features-2me7
 - Codespaces/Configure Codespace with custom VSCode Extension set - https://dev.to/lynnlangit/github-codespaces-extensions-1hdj
 
-## Other Codespace content on Dev.to
+## Other Codespaces content
 - Codespaces/General Overview, includes 'how much RAM does it use?' - https://dev.to/n3wt0n/visual-studio-github-codespaces-questions-answered-5ge7
 - Codespaces/Deep Dive into workspace customization - https://dev.to/n3wt0n/make-it-perfect-how-to-customize-github-codespaces-2ma4
+- Codespaces/Embedded development - https://www.youtube.com/watch?v=-enIM4x-KPA
