@@ -1,6 +1,8 @@
 # learning-codespaces
 Index of content to learn to use GitHub Codespaces
 
+![Github Codespaces](https://github.com/lynnlangit/learning-codespaces/blob/master/codespaces.png)
+
 ## My Microblogs on Dev.to
 - Codespaces/What is it - https://dev.to/lynnlangit/github-codespaces-ftw-4i51
 - Codespaces/Using VSCode Extensions - https://dev.to/lynnlangit/github-codespaces-extensions-3o7c
