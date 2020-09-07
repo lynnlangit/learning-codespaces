@@ -20,6 +20,19 @@ Index of content to learn to use GitHub Codespaces
 - Codespaces/Use Java container w/features (testing, debug...) - https://dev.to/lynnlangit/github-codespaces-codetour-features-2me7
 - Codespaces/Configure Codespace with custom VSCode Extension set - https://dev.to/lynnlangit/github-codespaces-extensions-1hdj
 
+### Info on Customization
+
+When you create a new codespace, GitHub clones your dotfiles repository to the codespace environment, and looks for one of the following files to set up the environment.  
+
+- install.sh
+- install
+- bootstrap.sh
+- bootstrap
+- setup.sh
+- setup  
+
+If none of these files are found, then any files or folders in dotfiles starting with . are symlinked to the codespace's ~ or $HOME directory.
+
 ---
 
 ## Other Codespaces content
@@ -27,3 +40,4 @@ Index of content to learn to use GitHub Codespaces
 - Codespaces/Deep Dive into workspace customization - https://dev.to/n3wt0n/make-it-perfect-how-to-customize-github-codespaces-2ma4
 - Codespaces/Documentation - How to customize - https://docs.github.com/en/github/developing-online-with-codespaces/personalizing-codespaces-for-your-account
 - Codespaces/Embedded development - https://www.youtube.com/watch?v=-enIM4x-KPA
+
