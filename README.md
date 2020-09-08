@@ -19,6 +19,7 @@ Index of content to learn to use GitHub Codespaces
 - Codespaces/Use CodeTour advanced features - https://dev.to/lynnlangit/github-codespaces-codetour-features-2me7
 - Codespaces/Use Java container w/features (testing, debug...) - https://dev.to/lynnlangit/github-codespaces-codetour-features-2me7
 - Codespaces/Configure Codespace with custom VSCode Extension set - https://dev.to/lynnlangit/github-codespaces-extensions-1hdj
+- Codespaces/Build with a custom container (for WDL) - https://dev.to/lynnlangit/github-codespaces-custom-container-35li
 
 ### Info on Customization
 
