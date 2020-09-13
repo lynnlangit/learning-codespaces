@@ -19,6 +19,7 @@
 ### #2 Include Java source files
 - use updated Java `.devcontainer` files as starting point
 - include JAVA source files in GitHub Repo
+- add JAR files to the `.classpath`
 - select build process (i.e. `javac` or Maven, etc...)
 - set `folder to include in Java project`
 - get the source files to build
