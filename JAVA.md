@@ -6,7 +6,7 @@
 - review the base JDK image used - check version and file size
 
 
-## Approach to adding libraries
+## Approaches to adding libraries
 
 ### #1 Include JAR
 - use updated Java `.devcontainer` files as starting point
