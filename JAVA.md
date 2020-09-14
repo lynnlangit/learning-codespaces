@@ -24,3 +24,10 @@
 - set `folder to include in Java project`
 - get the source files to build
 - create Codespace - test example code which uses built source files
+
+## Enabling Java Tests
+- install Java Test Runner VSCode Extention
+- Get `junit.jar` and `haming.jar`, upload to your Repo
+- add the two JAR files to your `.classpath`
+- test with the Java Test extension (beaker)
+- (optional) install and use Java Debugger extension
