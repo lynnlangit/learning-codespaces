@@ -1,9 +1,9 @@
 # Building Java Codespaces
 
 - use the Microsoft pre-built Java `.devcontainer` files as a template
-- remove `node.js` if not needed
-- remove `Maven` and/or `Gradle` if not needed
-- review the base JDK image used - check version and file size
+  - remove `node.js` if not needed
+  - remove `Maven` and/or `Gradle` if not needed
+  - review the base JDK image used - check version and file size
 
 
 ## Approaches to adding libraries
